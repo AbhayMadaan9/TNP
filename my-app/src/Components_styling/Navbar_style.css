@@ -55,7 +55,7 @@ body
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: ;
+    flex-wrap: nowrap;
 }
 .container .container2 ul li
 {
