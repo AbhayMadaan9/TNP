@@ -15,9 +15,10 @@
     font-size: xx-large;
     text-decoration: underline;   
 }
-.container_genconian .cards
+.container_genconian .all_cards
 {
     display: flex;
     flex-direction: row;
-    
+    flex-wrap: wrap;
+    margin-left: 12rem;
 }

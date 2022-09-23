@@ -10,13 +10,13 @@ body
     margin: 0;
     padding: 0;
 }
-@media (max-width: 680px)
+/* @media (max-width: 680px)
 {
 .container .container2 ul
 {
     flex-wrap: wrap;
 }
-}
+} */
 .container
 {
     position: sticky;
