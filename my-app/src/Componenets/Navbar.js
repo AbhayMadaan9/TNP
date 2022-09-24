@@ -11,7 +11,7 @@ export default function Navbar() {
         <ul>
 
           <li id='logo'>
-            <img src="logo.png" alt="logo " />
+            <img src="../Components_styling/logo.png" alt="logo " />
           </li>
 
           <li id='heading'>
