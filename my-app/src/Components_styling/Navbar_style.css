@@ -77,3 +77,9 @@ body
     font-size: 3rem;
     font-weight: bold;
 }
+
+#logo_img
+{
+    border-radius: 20rem;
+    width: 6rem;
+}

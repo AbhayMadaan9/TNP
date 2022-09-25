@@ -1,0 +1,42 @@
+#post
+{
+    text-align: center;
+    font-size: 5rem;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.container_post
+{
+    background-color: #b0b0b0;
+    padding: auto;
+    width: fit-content;
+    margin:auto;
+    margin-top: 15rem;
+    padding: 5rem;
+    border-radius: 2rem;
+}
+form label
+{
+    font-size: medium;
+}
+form input
+{
+    margin-left: 1rem;
+    border: white;
+    background-color: #add8e6;
+}
+form p a
+{
+    background-color: #add8e6;
+    color: white;
+    padding: 1rem;
+    /* margin:  3rem 1rem 1rem 1rem; */
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: none;
+}
+form p 
+{
+    text-align: center;
+    margin: 3rem 0rem 0rem 0rem;
+}
