@@ -7,32 +7,31 @@ export default function Navbar() {
     <>
     <div className="container">
 
-      <div className="container1">
-        <ul>
+<div className="container1">
+  <ul>
 
-          <li id='logo'>
-            <img src="../Components_styling/logo.png" alt="logo " />
-          </li>
+    <li id='logo'>
+      <img src="../Components_styling/logo.png" alt="logo " />
+    </li>
 
-          <li id='heading'>
-            <p>Training & Placement Cell</p>
-          </li>
+    <li id='heading'>
+      <p>Training & Placement Cell</p>
+    </li>
 
-        </ul>
-        </div>
-        
-        <div className="container2">
-          <ul>
-            <li><a href='/'>Login</a></li>
-            <li><a href='/'>About</a></li>
-            <li><a href='/'>Genconian</a></li>
-            <li><a href='/'>Contact Details</a></li>
-            <li><a href='/'>More</a></li>
-          </ul>
-        </div>
+  </ul>
+  </div>
+  
+  <div className="container2">
+    <ul>
+      <li><a href='/login'>Login</a></li>
+      <li><a href='/about'>About</a></li>
+      <li><a href='/genconians'>Genconian</a></li>
+      <li><a href='/contact'>Contact Details</a></li>
+      <li><a href='/more'>More</a></li>
+    </ul>
+  </div>
 
-      </div>
-
-    </>
+</div>
+       </>
   )
 }

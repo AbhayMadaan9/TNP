@@ -17,6 +17,7 @@
 }
 .container_genconian .all_cards
 {
+    margin-top: 5rem;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
