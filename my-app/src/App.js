@@ -17,7 +17,7 @@ export default function App() {
           <Route exact path='/about' element={<About />}></Route>
           <Route exact path='/genconians' element={<Genconian />}></Route>
           <Route exact path='/contact' element={<Contact />}></Route>
-          <Route exact path='/post' element={<Post />}></Route>
+          <Route exact path='/Post' element={<Post />}></Route>
 
         </Routes>
       </Router>

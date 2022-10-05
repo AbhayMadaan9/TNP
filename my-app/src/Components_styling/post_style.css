@@ -24,8 +24,9 @@ form input
     margin-left: 1rem;
     border: white;
     background-color: #add8e6;
+    border-radius: 3rem;
 }
-form p a
+form p  button
 {
     background-color: #add8e6;
     color: white;
@@ -34,6 +35,8 @@ form p a
     font-size: medium;
     font-weight: bold;
     text-decoration: none;
+    border-radius: 1rem;
+    border: 0;
 }
 form p 
 {

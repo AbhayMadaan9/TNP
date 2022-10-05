@@ -27,12 +27,12 @@ export default class Genconian extends Component {
       <div className="container_genconian">
       <p id='heading_genconian'>Proud Members</p>
       <div className="all_cards">
-      {this.state.genco.map((element => {
+        {this.state.genco.length?this.state.genco.map((element => {
         return  <Genco_cards link={element.imgurl?element.imgurl:"https://hybridirc.com/images/staff/avatar7.png"} post={element.post} about={element.about}/>
-      }))}
+      })):<Spinner/>}
       </div>
-      
-        {this.state.loading &&<Spinner/>}
+      {/* This shows Spinner gif when loading is true */}
+        {this.state.loading &&<Spinner/>}  
       </div>
       </>
     )

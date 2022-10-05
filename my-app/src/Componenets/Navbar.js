@@ -27,7 +27,7 @@ export default function Navbar() {
       <li><a href='/about'>About</a></li>
       <li><a href='/genconians'>Genconian</a></li>
       <li><a href='/contact'>Contact Details</a></li>
-      <li><a href='/post'>Create Post</a></li>
+      <li><a href='/Post'>Create Post</a></li>
       <li><a href='/more'>More</a></li>
     </ul>
   </div>
