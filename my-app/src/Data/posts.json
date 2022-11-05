@@ -1,0 +1,14 @@
+{
+    "posts": [
+        { "type": "announcement","info": "In continuation to the previous post, the Online Pre-Placement Talk by Nucleus Software is going to be held on 06-10-2022 from 12:00 PM. The link for the same is given below.","location": "","company": "US","id": 1},
+        { "type": "announcement","info": "In continuation to the previous post, the Online Pre-Placement Talk by Nucleus Software is going to be held on 06-10-2022 from 12:00 PM. The link for the same is given below.","location": "","company": "US", "id": 2},
+        { "type": "announcement","info": "In continuation to the previous post, the Online Pre-Placement Talk by Nucleus Software is going to be held on 06-10-2022 from 12:00 PM. The link for the same is given below.","location": "","company": "US", "id": 3},
+        { "type": "announcement","info": "In continuation to the previous post, the Online Pre-Placement Talk by Nucleus Software is going to be held on 06-10-2022 from 12:00 PM. The link for the same is given below.","location": "","company": "US", "id": 4},
+        { "type": "announcement","info": "In continuation to the previous post, the Online Pre-Placement Talk by Nucleus Software is going to be held on 06-10-2022 from 12:00 PM. The link for the same is given below.","location": "","company": "US", "id": 5},
+        { "type": "announcement","info": "In continuation to the previous post, the Online Pre-Placement Talk by Nucleus Software is going to be held on 06-10-2022 from 12:00 PM. The link for the same is given below.","location": "","company": "US", "id": 6},
+        { "type": "announcement","info": "In continuation to the previous post, the Online Pre-Placement Talk by Nucleus Software is going to be held on 06-10-2022 from 12:00 PM. The link for the same is given below.","location": "","company": "US", "id": 7},
+        { "type": "announcement","info": "In continuation to the previous post, the Online Pre-Placement Talk by Nucleus Software is going to be held on 06-10-2022 from 12:00 PM. The link for the same is given below.","location": "","company": "US", "id": 8},
+        { "type": "announcement","info": "In continuation to the previous post, the Online Pre-Placement Talk by Nucleus Software is going to be held on 06-10-2022 from 12:00 PM. The link for the same is given below.","location": "","company": "US", "id": 9},
+        { "type": "announcement","info": "In continuation to the previous post, the Online Pre-Placement Talk by Nucleus Software is going to be held on 06-10-2022 from 12:00 PM. The link for the same is given below.","location": "","company": "US", "id": 10}
+    ]
+  }
